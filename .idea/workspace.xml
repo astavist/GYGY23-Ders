@@ -43,6 +43,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SAMET\Desktop\GYGY23-Ders" />
       <recent name="C:\Users\SAMET\Desktop\GYGY23-Ders\onSekizMart_Ders" />
     </key>
   </component>
@@ -101,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679141084609</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="asd">
+      <created>1679141396144</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679141396144</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
