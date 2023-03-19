@@ -4,11 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3e7e4d9-ef45-4b57-9fac-ff3330addc75" name="Changes" comment="readme" />
+    <list default="true" id="e3e7e4d9-ef45-4b57-9fac-ff3330addc75" name="Changes" comment="katmanlıMimariFirst">
+      <change afterPath="$PROJECT_DIR$/onDokuzMart_Ders/ecommerce/src/main/java/com/kodlama/io/ecommerce/business/abstracts/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onDokuzMart_Ders/ecommerce/src/main/java/com/kodlama/io/ecommerce/business/concrete/ProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onDokuzMart_Ders/ecommerce/src/main/java/com/kodlama/io/ecommerce/repository/abstracts/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onDokuzMart_Ders/ecommerce/src/main/java/com/kodlama/io/ecommerce/repository/concrete/InMemoryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onDokuzMart_Ders/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onDokuzMart_Ders/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onSekizMart_Ders/rent-a-car/src/main/java/kodlama/io/rentacar/api/controllers/BrandsCotrollers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onSekizMart_Ders/rent-a-car/src/main/java/kodlama/io/rentacar/business/abstracts/BrandService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onSekizMart_Ders/rent-a-car/src/main/java/kodlama/io/rentacar/business/concretes/BrandManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onSekizMart_Ders/rent-a-car/src/main/java/kodlama/io/rentacar/entities/concretes/Brand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onSekizMart_Ders/rent-a-car/src/main/java/kodlama/io/rentacar/repository/abstracts/BrandRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onSekizMart_Ders/rent-a-car/src/main/java/kodlama/io/rentacar/repository/concretes/InMemoryBrandRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -26,7 +52,6 @@
   <component name="ProjectId" id="2NBSlxbgE25WfdEDBF79YcmsO9p" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
@@ -34,7 +59,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "jdk.selected.JAVA_MODULE": "19",
-    "last_opened_file_path": "C:/Users/SAMET/Desktop/GYGY23-Ders/onSekizMart_Ders/rent-a-car",
+    "last_opened_file_path": "C:/Users/SAMET/Desktop/GYGY23-Ders/onDokuzMart_Ders/ecommerce/src/main/java/com/kodlama/io/ecommerce/business",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -42,7 +67,14 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SAMET\Desktop\GYGY23-Ders\onDokuzMart_Ders\ecommerce\src\main\java\com\kodlama\io\ecommerce\business" />
+      <recent name="C:\Users\SAMET\Desktop\GYGY23-Ders\onDokuzMart_Ders\ecommerce\src\main\java\com\kodlama\io\ecommerce\entities" />
+      <recent name="C:\Users\SAMET\Desktop\GYGY23-Ders\onSekizMart_Ders\rent-a-car\src\main\java\kodlama\io\rentacar\repository" />
+      <recent name="C:\Users\SAMET\Desktop\GYGY23-Ders\onSekizMart_Ders\rent-a-car\src\main\java\kodlama\io\rentacar\business" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SAMET\Desktop\GYGY23-Ders\onDokuzMart_Ders" />
       <recent name="C:\Users\SAMET\Desktop\GYGY23-Ders" />
       <recent name="C:\Users\SAMET\Desktop\GYGY23-Ders\onSekizMart_Ders" />
     </key>
@@ -52,7 +84,20 @@
       <command value="mvn clean install" />
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.RentACarApplication (1)">
+    <configuration name="RentACarApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kodlama.io.rentacar.RentACarApplication" />
+      <module name="rent-a-car (1) (kodlama.io)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kodlama.io.rentacar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RentACarApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kodlama.io.rentacar.RentACarApplication" />
       <module name="rent-a-car" />
@@ -68,6 +113,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RentACarApplication (1)" />
         <item itemvalue="Application.RentACarApplication" />
       </list>
     </recent_temporary>
@@ -116,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679141664574</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="katmanlıMimariFirst">
+      <created>1679142535984</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679142535984</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,6 +186,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="asd" />
     <MESSAGE value="readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="readme" />
+    <MESSAGE value="katmanlıMimariFirst" />
+    <option name="LAST_COMMIT_MESSAGE" value="katmanlıMimariFirst" />
   </component>
 </project>
